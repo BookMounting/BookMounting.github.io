@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.bookmounting.com/"/>
-  <updated>2019-07-12T02:21:59.362Z</updated>
+  <updated>2019-07-12T02:54:57.175Z</updated>
   <id>http://www.bookmounting.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.bookmounting.com/12/linkpage/"/>
     <id>http://www.bookmounting.com/12/linkpage/</id>
     <published>2019-07-12T02:20:35.000Z</published>
-    <updated>2019-07-12T02:21:59.362Z</updated>
+    <updated>2019-07-12T02:54:57.175Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">hexo史上最全搭建教程</a></p><p><a href="https://www.cnblogs.com/sniperHW/p/4172248.html" target="_blank" rel="noopener">基于数组无锁队列</a></p><p><a href="http://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++" target="_blank" rel="noopener">块式链表无锁队列</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">hexo史上最全搭建教程</a></p><p><a href="https://www.cnblogs.com/sniperHW/p/4172248.html" target="_blank" rel="noopener">基于数组无锁队列</a></p><p><a href="http://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++" target="_blank" rel="noopener">块式链表无锁队列</a></p><p><a href="https://www.cnblogs.com/FateTHarlaown/p/8919235.html" target="_blank" rel="noopener">C++11的原子量与内存序浅析</a></p>]]></content>
     
     <summary type="html">
     
