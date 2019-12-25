@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.bookmounting.com/"/>
-  <updated>2019-12-25T05:11:23.388Z</updated>
+  <updated>2019-12-25T05:14:55.373Z</updated>
   <id>http://www.bookmounting.com/</id>
   
   <author>
@@ -21,9 +21,18 @@
     <link href="http://www.bookmounting.com/25/hexo-useguide-1/"/>
     <id>http://www.bookmounting.com/25/hexo-useguide-1/</id>
     <published>2019-12-25T05:11:23.000Z</published>
-    <updated>2019-12-25T05:11:23.388Z</updated>
+    <updated>2019-12-25T05:14:55.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo new post name</p><p>hexo g -d</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;hexo new post name&lt;/p&gt;
+&lt;p&gt;hexo g -d&lt;/p&gt;
+
+      
     
     </summary>
     
